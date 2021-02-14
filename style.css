@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.orange-name{
+    color:tomato;
+}
+
+.half-width{
+    width: 35%;
+    float: left;
+    padding-left: 5%;
+    margin-left: 2%;
+
+}
+.half-width img{
+    width: 100%;
+}
+.project{
+    width: 26%;
+    float: left;
+}
+
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
